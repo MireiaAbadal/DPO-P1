@@ -25,7 +25,7 @@ public class Menu {
 
         while (opcion != 7) {
             try {
-                System.out.println("************ LSBicing menu: ************\n" +
+                System.out.println("************ LsTube menu: ************\n" +
                         "1. Cerca de Resultats\n" +
                         "2. Desar Preferits\n" +
                         "3. Millors Videos\n" +
