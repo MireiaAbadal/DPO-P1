@@ -35,8 +35,7 @@ public class Menu {
                         "7. Sortir\n" +
                         "Sel·lecciona una opcio:");
                 opcion = Integer.parseInt(scanner.nextLine());
-                //Map map = new Map();
-                //Result[] results;
+
                 switch (opcion) {
                     case 1:
 
